@@ -70,6 +70,8 @@ public class Orange {
     System.out.println(or.toString());
     System.out.println(or.equals(or2));
     System.out.println(or2.equals(or3));
+
+    System.out.println("Fin test Orange");
    }
 }
 
